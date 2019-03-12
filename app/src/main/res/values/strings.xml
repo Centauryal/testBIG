@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="txt_test">Test</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_height">Height</string>
+    <string name="txt_mass">Mass</string>
+    <string name="txt_hair_color">Hair Color</string>
+    <string name="txt_skin_color">Skin Color</string>
+    <string name="txt_eye_color">Eye Color</string>
+    <string name="txt_birth_year">Birth Year</string>
+    <string name="txt_gender">Gender</string>
+    <string name="txt_homeworld">Homeworld</string>
+    <string name="txt_films">Films</string>
+    <string name="txt_species">Species</string>
+    <string name="txt_vehicles">Vehicles</string>
+    <string name="txt_starships">StarShips</string>
+    <string name="txt_created">Created</string>
+    <string name="txt_edited">Edited</string>
+    <string name="txt_url">Url</string>
+</resources>
